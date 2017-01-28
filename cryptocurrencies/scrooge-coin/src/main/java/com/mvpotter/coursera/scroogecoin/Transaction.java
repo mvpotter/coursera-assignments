@@ -1,3 +1,5 @@
+package com.mvpotter.coursera.scroogecoin;
+
 import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.Arrays;
